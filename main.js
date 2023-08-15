@@ -39,3 +39,6 @@ console.log(elseif2);
 let sum=9;
 var sum1= sum >10?"kalan asta":"nista kalan";
 console.log(sum1);
+for(let i=1; i< 10; i++){
+    console.log(i);
+}
